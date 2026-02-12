@@ -23,8 +23,8 @@ const EmailUs = () => {
 				transition={{ duration: 0.6 }}
 			>
 				<Mailto
-					email='megan@livingspacelandscapes.com'
-					cc='scott@livingspacelandscapes.com'
+					email='scott@livingspacelandscapes.com'
+					
 					subject='Consultation Request'
 					body={body}
 				>
