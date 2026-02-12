@@ -11,7 +11,7 @@ const Contact = () => {
 				}
 			/>
 			<div className='grid gap-4 lg:gap-2 mt-12   '>
-				<div className='px-2 lg:px-0 lg:w-2/3 mx-auto grid gap-1 lg:gap-2 font-bld'>
+				<div className='px-2 lg:px-0 lg:w-2/3 mx-auto grid gap-1 lg:gap-2 font-bld pb-8'>
 					<SectionHeading title={'Ready to Work With Us?'} />
 
 					<h2 className='grid place-items-center text-xl lg:text-3xl  text-center font-normal'>

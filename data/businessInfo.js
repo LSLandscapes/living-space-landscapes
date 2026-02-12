@@ -13,10 +13,10 @@ export const businessInformation = {
 			phoneNumber: '612-868-7787',
 			email: 'scott@livingspacelandscapes.com',
 		},
-		{
-			name: 'Megan',
-			phoneNumber: '651-398-1616',
-			email: 'megan@livingspacelandscapes.com',
-		},
+		// {
+		// 	name: 'Megan',
+		// 	phoneNumber: '651-398-1616',
+		// 	email: 'megan@livingspacelandscapes.com',
+		// },
 	],
 };

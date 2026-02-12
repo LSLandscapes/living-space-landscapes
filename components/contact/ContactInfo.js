@@ -4,7 +4,7 @@ import EmailUs from './EmailUs';
 import ContactSegment from './ContactSegment';
 const ContactInfo = () => {
 	return (
-		<div className='max-w-7xl mx-4 md:mx-auto grid place-items-center  gap-8 lg:grid-cols-5 lg:gap-8  my-8 '>
+		<div className='max-w-7xl mx-4 md:mx-auto grid place-items-center  gap-8 lg:grid-cols-5 lg:gap-8  my-8 pb-8 '>
 			<div className=' lg:col-span-3 h-full lg:w-2/3  mx-auto  lg:p-4  grid place-items-center  lg:pt-0 '>
 				<EmailUs />
 			</div>
@@ -19,7 +19,7 @@ const ContactInfo = () => {
 					</motion.div>
 				</motion.div>
 
-				<div className='grid place-items-center'>
+				<div className='grid px-4 place-items-center lg:place-items-start'>
 					<motion.div
 						initial={{ opacity: 0.01 }}
 						animate={{ opacity: 1 }}
